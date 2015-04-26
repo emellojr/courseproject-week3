@@ -2,6 +2,7 @@
 ## Getting and Cleaning data
 ## Date: 26/04/2015
 ## r_anaçysis.R script
+## This script was made using as a basis other codes found in git.
 ########################################
 
 library("reshape2")
